@@ -1,9 +1,42 @@
-.g1111{}
+.g{}
 
-.g1111{background: #f4f4f4;
+.e{background: #f4f4f4;
 width: 100%;
 height: 60px;
 font-family: heiti;
 color: #8bbabb;
 }
+
+.z{background: #f4f4f4;
+width: 100%;
+height: 460px;
+text-align: center;
+position: fixed;
+
+
+}
+
+.m{color: white;
+	font-size: 18px;
+	font-family: heiti;
+
+	background: #f67280;
+width: 22%;
+height: 460px;
+float: left;}
+
+.n{background: #02a8a8;
+width: 22%;
+height: 460px;
+float: right;}
+
+
+
+.l{background: #2c7873;
+width: 100%;
+height: 180px;}
+
+
+
+
 body{background: #8bbabb}
