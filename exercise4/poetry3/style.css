@@ -1,0 +1,81 @@
+.one{background:#f5dea3;
+font-family:heiti;
+color:#393e46;
+
+
+
+}
+.i{color:#444444;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#fbdff0;
+width: 33% center;
+padding: 5px #6c7b95;}
+
+.q{color:#fbdff0;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#6c7b95;
+width: 45% center;
+padding: 5px #6c7b95;}
+
+.w{color:#444444;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#fbdff0;
+width: 33% center;
+padding: 5px #6c7b95;}
+
+.e{color:#fbdff0;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#6c7b95;
+width: 45% left;
+padding: 5px #6c7b95;}
+
+.o{color:#444444;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#fbdff0;
+width: 33% right;
+padding: 5px #6c7b95;}
+
+.r{color:#fbdff0;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#6c7b95;
+width: 33% center;
+padding: 5px #6c7b95;}
+
+.t{color:#444444;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#fbdff0;
+width: 33% center;
+padding: 5px #6c7b95;}
+
+.y{color:#fbdff0;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#6c7b95;
+width: 33% center;
+padding: 5px #6c7b95;}
+
+.u{color:#444444;
+font-family:heiti;
+font-size: 16pt;
+letter-spacing:0.05em;
+background:#fbdff0;
+width: 33% center;
+padding: 5px #6c7b95;}
+
+
+span{background:#6c7b95}
